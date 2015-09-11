@@ -1,8 +1,4 @@
 Original in Zweig1
-<<<<<<< HEAD
 geändert in Massa
 Änderung um 11:46
 Weitere Änderung nach Fork
-=======
-geÃ¤ndert in Massa
->>>>>>> d60e7949d7fa7899030f5653569f583479fce443
